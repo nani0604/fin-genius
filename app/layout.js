@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
                   href="https://www.linkedin.com/in/kesamreddy-deepak-reddy"
                   className="text-blue-600 hover:underline"
                 >
-                  Narendra Kumar Reddy Y
+                  Kesamreddy Deepak Reddy
                 </a>
               </p>
             </div>
