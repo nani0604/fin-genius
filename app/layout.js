@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
                   href="https://www.linkedin.com/in/narendrayathapu
                   className="text-blue-600 hover:underline"
                 >
-                  Narendra Kumar Reddy Yathapu
+                  Narendra Kumar Reddy
                 </a>
               </p>
             </div>
