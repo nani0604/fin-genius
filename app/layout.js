@@ -32,10 +32,10 @@ export default function RootLayout({ children }) {
               <p className="text-xs mt-2">
                 Built with ❤️ by{" "}
                 <a
-                  href="https://www.linkedin.com/in/narendrayathapu
+                  href="https://www.linkedin.com/in/narendrayathapu"
                   className="text-blue-600 hover:underline"
                 >
-                  Narendra Kumar Reddy
+                  Narendra Kumar Reddy Yathapu
                 </a>
               </p>
             </div>
